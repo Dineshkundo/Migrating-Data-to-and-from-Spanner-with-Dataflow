@@ -1,7 +1,5 @@
 # Migrating-Data-to-and-from-Spanner-with-Dataflow
 
-Here's a sample README file for your project based on the commands and context you provided. This will help guide others through the setup and execution steps.
-
 ---
 
 # CSV to Spanner Dataflow Pipeline
@@ -106,5 +104,3 @@ This will start the Dataflow job and load data from the CSV file into the Spanne
 After completing the steps above, the pet data from the CSV file will be loaded into your Google Cloud Spanner database using Apache Beam and Dataflow. You can now use the Spanner database for querying and further processing.
 
 ---
-
-Feel free to modify or extend this README based on your specific use case or environment!
